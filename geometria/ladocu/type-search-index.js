@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"Circulo_ABA"},{"p":"<Unnamed>","l":"FiguraGeometrica_ABA"},{"p":"<Unnamed>","l":"Rectangulo_ABA"},{"p":"<Unnamed>","l":"Triangulo_ABA"}]
