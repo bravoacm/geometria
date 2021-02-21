@@ -1,3 +1,10 @@
+/**
+ * 
+ * 
+ * @author Adrian Bravo Argumanez
+ * @version 1.2
+ *
+ */
 
 public class Rectangulo_ABA extends FiguraGeometrica_ABA {
 	private double l1;
